@@ -31,5 +31,5 @@ for i in range(1, 3):
         maior_defesa = defesa[i]
         nome_maior_defesa = nome[i]
 
-print("Ataque", maior_ataque, nome_maior_ataque)
-print("Defesa", maior_defesa, nome_maior_defesa)
+print("Ataque", nome_maior_ataque, maior_ataque) 
+print("Defesa", nome_maior_defesa, maior_defesa)
